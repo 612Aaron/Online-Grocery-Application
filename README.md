@@ -1,2 +1,3 @@
-# Online-Grocery-Application
-Fresh Cart that can help people purchase and order groceries and food easily.
+## Hello My name is Aaron Dsouza
+Im a final year student at KLS GIT
+Working on build software projects that solve the real world problems
